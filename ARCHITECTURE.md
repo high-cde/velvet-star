@@ -9,7 +9,7 @@
 ## 2. Multi-Rail Payments
 - Euro: card / SEPA (partner)
 - Solana: SOL / USDC
-- $OV: prioritario, casa ufficiale su velvet.x-zdos.it
+- $OV: prioritario, casa ufficiale su ourvelvet.online
 
 ## 3. Velvet Guardian AGI
 - Allinea Magazine + Meat Radar + Studio + Star
